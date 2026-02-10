@@ -58,7 +58,7 @@ retro/
 │       └── retrieve_neighbours.py # Retrieve nearest-neighbor chunks
 ├── data/
 │   ├── datasets/                  # Dataset storage and preparation guides
-│   └── model/                     # Pre-trained model storage
+│   └── model/                     # Model storage
 ├── Dockerfile                     # Container image definition
 ├── start.sh                       # Docker launch script
 └── bash.bashrc                    # Container shell configuration
