@@ -121,10 +121,6 @@ pip install transformers==4.21.0 \
 
 For GPU-accelerated FAISS, replace `faiss-cpu` with `faiss-gpu`.
 
-### Pre-trained Model
-
-Download the [pre-trained model](https://drive.google.com/file/d/1R53kuW_6uWDCXamQy2AghgeseaIPsAcB/view?usp=sharing) and extract it into `data/model/`.
-
 ## Data Preparation Pipeline
 
 Building a RETRO dataset involves a multi-step pipeline. See [`data/datasets/README.md`](data/datasets/README.md) for full details.
