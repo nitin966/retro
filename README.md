@@ -4,6 +4,8 @@ A PyTorch implementation of the **RETRO** (Retrieval-Enhanced Transformer) archi
 
 RETRO augments a standard autoregressive language model with a retrieval mechanism that fetches semantically similar text chunks from an external corpus during both training and inference, enabling improved language modeling without scaling model parameters.
 
+A lot of implementation here uses lucidrain's work as a reference, especially for configurations of the model, chunk size, etc.
+
 ## Table of Contents
 
 - [Architecture Overview](#architecture-overview)
